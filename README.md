@@ -6,7 +6,7 @@ Ce dépôt contient les fichiers sources du projet Orelynd, un site e-commerce b
 
 ## 🧰 Technologies
 
-- **OpenCart** (v.x.x.x)
+- **OpenCart** (v.4.1.0.3)
 - **PHP**
 - **MySQL**
 - **HTML/CSS/JS**

@@ -1,0 +1,41 @@
+:root {
+  --bs-primary: #d10024;
+  --bs-link-color-rgb: 209, 0, 36;
+
+  --bs-link-hover-color: #88061c;
+  --bs-link-hover-color-rgb: 136, 6, 28;
+}
+:root {
+  /* Couleur principale du bouton */
+  --bs-btn-bg: #d10024;
+  --bs-btn-color: #ffffff;
+  --bs-btn-border-color: #d10024;
+
+  /* Survol du bouton */
+  --bs-btn-hover-bg: #88061c;
+  --bs-btn-hover-color: #ffffff;
+  --bs-btn-hover-border-color: #88061c;
+
+  /* Bouton actif (clic maintenu) */
+  --bs-btn-active-bg: #660013;
+  --bs-btn-active-border-color: #660013;
+}
+.btn-primary {
+  background-color: #d10024 !important;
+  color: #ffffff !important;
+  border-color: #d10024 !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #88061c !important;
+  color: #ffffff !important;
+  border-color: #88061c !important;
+}
+
+.btn-primary:active,
+.btn-primary:focus:active {
+  background-color: #660013 !important;
+  border-color: #660013 !important;
+  color: #ffffff !important;
+}
